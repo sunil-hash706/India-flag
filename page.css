@@ -1,0 +1,112 @@
+.bodyH{
+   
+    height: 700px;
+}
+.box{
+     
+    position: relative;
+    
+  
+    width: 300px;
+    height: 50px;
+}
+#top{
+    background-color: orange;
+}
+#middle{
+    background-color: white;
+}
+#bottom{
+    background-color: green;
+}
+#circle{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    bottom: 96px;
+    left: 113px;
+    border: 2px solid blue;
+    border-radius: 30px;
+}
+
+/* element.style {
+} */
+.sticks {
+    /* position: relative;
+    left: 115px;
+    top: 25px; */
+    width: 38px;
+    height: 2px;
+    background-color: blue;
+}
+#s1{
+    position: relative;
+    left: 116px;
+    top: 25px;
+}
+#s2{
+    position: relative;
+    transform: rotate(15deg);
+    top: 23px;
+    left: 116px;
+}
+#s3{
+    position: relative;
+    transform: rotate(30deg);
+    top: 21px;
+    left: 116px;
+}
+#s4{
+    position: relative;
+    transform: rotate(45deg);
+    top: 19px;
+    left: 116px;
+}
+#s5{
+    position: relative;
+    transform: rotate(60deg);
+    top: 17px;
+    left: 116px;
+}
+#s6{
+    position: relative;
+    transform: rotate(75deg);
+    top: 15px;
+    left: 116px;
+}
+#s7{
+    position: relative;
+    transform: rotate(90deg);
+    top: 13px;
+    left: 116px;
+}
+#s8{
+    position: relative;
+    transform: rotate(105deg);
+    top: 11px;
+    left: 116px;
+}
+#s9{
+    position: relative;
+    transform: rotate(120deg);
+    top: 9px;
+    left: 116px;
+}
+#s10{
+    position: relative;
+    transform: rotate(135deg);
+    top: 7px;
+    left: 116px;
+}
+#s11{
+    position: relative;
+    transform: rotate(150deg);
+    top: 5px;
+    left: 116px;
+}
+#s12{
+    position: relative;
+    transform: rotate(165deg);
+    top: 3px;
+    left: 116px;
+}
